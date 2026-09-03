@@ -1,11 +1,11 @@
 # Alex Steiner 👋
 
-**IB Diploma Candidate • ML Researcher • AI & BCI Enthusiast** • 📍 San Marino • 🌐 [alexsteiner.dev](https://alexsteiner.dev/) • 🔗 [LinkedIn](https://www.linkedin.com/in/alexsteinerr/)
+**1st Yr MEng Biomedical Engineering @ KCL • BCI & ML Researcher • AI & BCI Enthusiast** • 📍 San Marino • 🌐 [alexsteiner.dev](https://alexsteiner.dev/) • 🔗 [LinkedIn](https://www.linkedin.com/in/alexsteinerr/)
 
 ---
 
 ## 🎓 About Me
-I’m completing the IB Diploma, with a personal study focus on brain-computer interfaces (BCIs). I love turning theory into real-world applications while helping others.
+I’m completing a MEng in Biomedical Engineering at King's College London, with a personal study focus on brain-computer interfaces (BCIs). I love turning theory into real-world applications while helping others.
 ---
 
 ## 🛠️ Skills
