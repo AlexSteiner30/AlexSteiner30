@@ -1,6 +1,6 @@
 # Alex Steiner 👋
 
-**1st Yr MEng Biomedical Engineering @ KCL • BCI & ML Researcher • AI & BCI Enthusiast** • 📍 San Marino • 🌐 [alexsteiner.dev](https://alexsteiner.dev/) • 🔗 [LinkedIn](https://www.linkedin.com/in/alexsteinerr/)
+**1st Yr MEng Biomedical Engineering @ KCL • BCI & ML Researcher • AI & BCI Enthusiast** • 📍 San Marino • 🔗 [LinkedIn](https://www.linkedin.com/in/alexsteinerr/)
 
 ---
 
